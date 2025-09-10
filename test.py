@@ -37,3 +37,5 @@ class Counter:
     #git stash check
 
     #git merge check from feature let's see whether it gets merged into master branch
+
+    #git rebase check from feature to main
